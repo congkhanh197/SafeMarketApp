@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Safe Market</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_voice_rec">Action voice rec</string>
+
+    <string name="add_product">Create your product</string>
+    <string name="product_picture">Product\'s Picture</string>
+
+    <string name="facebook_application_id" translatable="false">171672266867028</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb171672266867028</string>
+
+
+    <string name="twitter_consumer_key" translatable="false">ILcdBGoUvtdD3d2jRrMjboGIt</string>
+    <string name="twitter_consumer_secret" translatable="false">Yxf9HB3Fvkij96SV4jRXUplQOLptVolQccZnkGgwntpF7ODV01</string>
+
+    <string-array name="product_type">
+        <item>Nhà</item>
+        <item>Xe</item>
+        <item>Đồ nội thất</item>
+        <item>Đồ điện tử</item>
+        <item>Thời trang</item>
+        <item>Thú cưng</item>
+        <item>Việc làm</item>
+        <item>Thức ăn</item>
+    </string-array>
+
+
+    <string name="invite_menu_label">Invite</string>
+    <string name="invitation_message">Please join me for a market</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="invitation_title">Safe Market App Invite</string>
+    <string name="price_text">50.000 đ</string>
+</resources>

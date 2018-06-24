@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "555001543236",
+    "firebase_url": "https://safemarket-b9df2.firebaseio.com",
+    "project_id": "safemarket-b9df2",
+    "storage_bucket": "safemarket-b9df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555001543236:android:c20a417a348ddb82",
+        "android_client_info": {
+          "package_name": "com.group13.safemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555001543236-obfgl1lmv6vovfpmkbtnpuiseflpjo8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.group13.safemarket",
+            "certificate_hash": "5ace80da83667d1add7be95142c508eb01f6b3c4"
+          }
+        },
+        {
+          "client_id": "555001543236-qddojj6p3qmpgs0me0avn2dgdjg3hcqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6axVOv0XQS_I1FMjm-BcJ-Ra-1hobP2Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555001543236-qddojj6p3qmpgs0me0avn2dgdjg3hcqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
